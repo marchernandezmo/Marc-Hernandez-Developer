@@ -6,4 +6,4 @@ Bienvenido a Marc Hernández Developer Repository.
 Aquí podrás descargar los programas tanto para Windows como para Android. 
 
 
-Si necesitas ayuda, por favor, visita http://marchernandezdeveloper.x10.bz/web y/o envíanos un correo electrónico a marchernandezmo.developer@gmail.com
+Si necesitas ayuda, por favor, visita https://marchernandez.es y/o envíanos un correo electrónico a info@marchernandez.es
